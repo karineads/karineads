@@ -10,24 +10,19 @@
   -->
 </div>
 
-# Hi guys, my name is Karine and I like technology and programming
+# Hello everyone, my name is Karine and I like technology and programming
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
 -->
-
-Welcome to my GitHub profile! I'm  Karine, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
+Welcome to my GitHub profile! I'm currently studying computer science and at the moment I don´t have much experience, but I want to explore new technologies and create interesting projects. 
 
 </div>
 
 ## 🌐 Connect with me
 <div> 
-  <a href="https://www.linkedin.com/in/karine-araujo-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--
-  https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://instagram.com/karineads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:askarine23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  -->
 </div>
 
 ## 📊 GitHub Stats
