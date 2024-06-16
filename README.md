@@ -2,7 +2,7 @@
 
 ---
 
-  <img width=40px src="https://devicon-website.vercel.app/api/github/original.svg?color=%23974E96"></img>
+  <img width=45px src="https://devicon-website.vercel.app/api/github/original.svg?color=%23974E96"></img>
   <!-- 
   https://picrew.me/en/image_maker/338224#google_vignette
   gift maker 
@@ -10,12 +10,13 @@
   -->
 </div>
 
-# Hello everyone, my name is Karine and I like technology and programming
+# Hello everyone, my name is Karine
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
 -->
-Welcome to my GitHub profile! I'm currently studying computer science and at the moment I don´t have much experience, but I want to explore new technologies and create interesting projects. 
+
+Welcome to my GitHub profile! I'm currently studying computer science and though my experience is still growing, I have a strong passion for exploring new technologies and crafting innovative projects.
 
 </div>
 
@@ -23,6 +24,14 @@ Welcome to my GitHub profile! I'm currently studying computer science and at the
 <div> 
   <a href="https://instagram.com/karineads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:askarine23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## 🛠️ Tools & Languages I am familiar with or currently studying
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=74&color=3452ea">
+  <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
+  <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
 </div>
 
 ## 📊 GitHub Stats
