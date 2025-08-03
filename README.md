@@ -1,60 +1,46 @@
+<div align="center">
+  <img width="80px" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23974E96">
+</div>
+
+# 👋 Hello, I'm Karine!
+
+🎓 I'm currently in the **4th semester of Computer Science**.  
+💻 I enjoy learning by building and love the challenge of solving problems through code.  
+🐍 I have solid knowledge in **Python**, basic experience with **SQL**, and I’m currently exploring **R** for data analysis.
 
 ---
-
-  <img width=45px src="https://devicon-website.vercel.app/api/github/original.svg?color=%23974E96"></img>
-  <!-- 
-  https://picrew.me/en/image_maker/338224#google_vignette
-  gift maker 
-  https://ezgif.com/maker
-  -->
-</div>
-
-# Hello everyone, my name is Karine
-<!-- 
-icon 
-https://emojipedia.org/pt/castor
--->
-
-Welcome to my GitHub profile! I'm currently studying computer science and though my experience is still growing, I have a strong passion for exploring new technologies and crafting innovative projects.
-
-</div>
 
 ## 🌐 Connect with me
-<div> 
-  <a href="https://instagram.com/karineads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:askarine23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div>
+  <a href="https://instagram.com/karineads" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:karineads023@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
-
-## 🛠️ Tools & Languages I am familiar with or currently studying
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=74&color=3452ea">
-  <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
-  <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
-</div>
-
-## 📊 GitHub Stats
-![karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karineads&show_icons=true&theme=radical)
-
-
--->
-
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ---
 
+## 🛠️ Technologies & Tools
 
-<!--
-**karineads/karineads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://icongr.am/devicon/python-original.svg?size=74&color=currentColor">
+  <img align="center" alt="R" height="40" width="50" src="https://icongr.am/devicon/r-original.svg?size=74&color=2a60a4">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=74&color=3452ea">
+  <img align="center" alt="Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Karine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karineads&show_icons=true&theme=radical)
+
+---
+
+✨ Feel free to explore my repositories and reach out if you’d like to collaborate or chat about programming!
+
